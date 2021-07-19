@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:">
+      location = "self:/Users/romanglukhov/Documents/Xcode_ios/ttt/CoreGraphicsTest.xcodeproj">
    </FileRef>
 </Workspace>

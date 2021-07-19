@@ -13,6 +13,7 @@
 		064A8DB026A3619A002835C9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 064A8DAE26A3619A002835C9 /* Main.storyboard */; };
 		064A8DB226A3619B002835C9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 064A8DB126A3619B002835C9 /* Assets.xcassets */; };
 		064A8DB526A3619B002835C9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 064A8DB326A3619B002835C9 /* LaunchScreen.storyboard */; };
+		064A8DBF26A569B5002835C9 /* dragon.png in Resources */ = {isa = PBXBuildFile; fileRef = 064A8DBE26A569B5002835C9 /* dragon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		064A8DB126A3619B002835C9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		064A8DB426A3619B002835C9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		064A8DB626A3619B002835C9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		064A8DBE26A569B5002835C9 /* dragon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dragon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		064A8DA726A3619A002835C9 /* ttt */ = {
 			isa = PBXGroup;
 			children = (
+				064A8DBE26A569B5002835C9 /* dragon.png */,
 				064A8DA826A3619A002835C9 /* AppDelegate.swift */,
 				064A8DAA26A3619A002835C9 /* SceneDelegate.swift */,
 				064A8DAC26A3619A002835C9 /* ViewController.swift */,
@@ -101,7 +104,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 064A8DA026A3619A002835C9 /* Build configuration list for PBXProject "ttt" */;
+			buildConfigurationList = 064A8DA026A3619A002835C9 /* Build configuration list for PBXProject "CoreGraphicsTest" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				064A8DBF26A569B5002835C9 /* dragon.png in Resources */,
 				064A8DB526A3619B002835C9 /* LaunchScreen.storyboard in Resources */,
 				064A8DB226A3619B002835C9 /* Assets.xcassets in Resources */,
 				064A8DB026A3619A002835C9 /* Main.storyboard in Resources */,
@@ -322,7 +326,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		064A8DA026A3619A002835C9 /* Build configuration list for PBXProject "ttt" */ = {
+		064A8DA026A3619A002835C9 /* Build configuration list for PBXProject "CoreGraphicsTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				064A8DB726A3619B002835C9 /* Debug */,
